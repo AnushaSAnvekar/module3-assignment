@@ -19,6 +19,7 @@ body{
   font-weight: bold;  
   color:#7d1913;
   text-shadow: 1px 1px 1px #fe9797;
+  
 
 }
 
@@ -42,7 +43,8 @@ body{
 #menu-tile h2{
   font-size:40px;
   font-weight: bold;
-  color: black;  
+  color: black; 
+  text-align:center;
 }
 
 #main-content{
@@ -62,7 +64,7 @@ body{
 
 #main-content span h3{  
   font-weight: bold;
-
+  text-align:center;
 }
 
 
